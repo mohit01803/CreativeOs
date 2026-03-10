@@ -25,7 +25,7 @@ logger = logging.getLogger(__name__)
 mcp = FastMCP("story_generator")
 
 # API Base URL
-API_BASE = "http://10.0.0.228"
+API_BASE = "http://49.248.193.5"
 
 logger.info("=" * 60)
 logger.info("Story Generation MCP Server Starting...")
